@@ -1,0 +1,30 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  border-width: 2px;
+  border-color: rgb(90, 89, 89);
+  border-style: solid;
+  border-radius: 10%;
+  box-shadow: 10px 5px 5px rgb(126, 126, 126);
+  margin-top: 2vh;
+  margin-left: 2vw;
+  align-items: center;
+  justify-content: center;
+  width: 15em;
+  height: 16em;
+  padding-top: 1vh;
+}
+.card .lab-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 13em;
+  max-height: 12em;
+}
+.card .lab-name {
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+  padding-left: 0.5vw;
+  /* padding-right: 0.5vw; */
+}

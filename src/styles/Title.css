@@ -1,0 +1,8 @@
+.title-section {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: aquamarine;
+  background-color: rgb(178, 136, 185);
+}
